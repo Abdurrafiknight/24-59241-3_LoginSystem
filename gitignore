@@ -1,0 +1,14 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+
+# SQL Server local DB files
+*.mdf
+*.ldf
